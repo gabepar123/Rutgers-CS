@@ -1,1 +1,1 @@
-CS214: Systems Programming. All programs written in C
+CS214: Systems Programming. All assignments written in C
