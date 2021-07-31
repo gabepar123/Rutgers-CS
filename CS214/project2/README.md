@@ -2,7 +2,7 @@ Gabriel Parente
 gnp32
 
 To run:
-    * Both Normal arguements [e.g. Hello.txt, Directory1] and Optional arguments [e.g.: -s.html, -d10] may be given in any order, repeating optional arguments wil result in them being overwritten.
+   * Both Normal arguements [e.g. Hello.txt, Directory1] and Optional arguments [e.g.: -s.html, -d10] may be given in any order, repeating optional arguments wil result in them being overwritten.
     * Any invalid optional arguments will cause an error message and end the program [e.g -x10, -d0, -a-7]
     * Having less than 1 argument will not cause the program to run [e.g. ./compare]
     * If a provided directory beings with a '.' it will be ignored
